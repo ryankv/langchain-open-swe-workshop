@@ -398,7 +398,7 @@ Key takeaways:
 - **GitHub Repository:** https://github.com/langchain-ai/open-swe
 - **Documentation:** https://docs.langchain.com/labs/swe  
 - **Demo Platform:** https://swe.langchain.com
-- **Discord Community:** LangChain Discord server
+- **Slack Community:** https://www.langchain.com/join-community
 - **Blog Updates:** https://blog.langchain.com
 
 ---
@@ -412,4 +412,4 @@ Key takeaways:
 
 ### Support Channels
 - GitHub Issues for bug reports
-- Discord for community support
+- Slack for community support
