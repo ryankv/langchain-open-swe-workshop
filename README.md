@@ -3,7 +3,7 @@
 
 ### Workshop Overview
 **Format:** Interactive hands-on workshop  
-**Prerequisites:** Basic Git/GitHub knowledge, Python familiarity  
+**Prerequisites:** Basic Git/GitHub knowledge
 **What you'll build:** A working Open SWE setup with live agent demonstrations
 
 ---
