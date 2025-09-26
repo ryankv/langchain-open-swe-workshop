@@ -2,7 +2,6 @@
 ## Workshop Guide for Global AI AgentCon Boston
 
 ### Workshop Overview
-**Duration:** 2.25 hours  
 **Format:** Interactive hands-on workshop  
 **Prerequisites:** Basic Git/GitHub knowledge, Python familiarity  
 **What you'll build:** A working Open SWE setup with live agent demonstrations
@@ -20,7 +19,7 @@ By the end of this workshop, you will:
 
 ---
 
-## Pre-Workshop Setup (15 minutes)
+## Pre-Workshop Setup
 
 ### Required Accounts & Keys
 Participants should have ready:
@@ -36,7 +35,7 @@ Participants should have ready:
 
 ---
 
-## Module 1: Understanding Open SWE Architecture (20 minutes)
+## Module 1: Understanding Open SWE Architecture
 
 ### The Shift from Copilots to Agents
 
@@ -244,7 +243,7 @@ Techniques for better agent performance:
 
 ---
 
-## Module 5: Integration Best Practices (25 minutes)
+## Module 5: Integration Best Practices
 
 ### Workflow Integration Strategies
 
@@ -294,7 +293,7 @@ Teams design integration workflows for:
 
 ---
 
-## Module 6: Advanced Features and Customization (20 minutes)
+## Module 6: Advanced Features and Customization
 
 ### Human-in-the-Loop Controls
 
