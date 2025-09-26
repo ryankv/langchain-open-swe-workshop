@@ -197,7 +197,7 @@ Each participant:
 
 ---
 
-## Module 4: Agent Decision Analysis (30 minutes)
+## Module 4: Agent Decision Analysis
 
 ### Understanding Agent Reasoning
 
