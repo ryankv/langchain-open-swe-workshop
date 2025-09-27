@@ -129,7 +129,7 @@ DAYTONA_API_KEY="your-daytona-key"
 ```
 
 #### GitHub App Creation
-1. Navigate to GitHub Developer Settings
+1. Navigate to [GitHub App Creation](https://github.com/settings/apps/new)
 2. Create new GitHub App with permissions:
    - Contents: Read & Write
    - Metadata: Read & Write
