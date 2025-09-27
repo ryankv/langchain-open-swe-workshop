@@ -76,6 +76,9 @@ Participants work in pairs to:
 3. Discuss potential failure points and human oversight needs
 
 ---
+## Workshop Repo
+https://tinyurl.com/openswe
+---
 
 ## Module 2: Local Development Environment (45 minutes)
 
